@@ -1,0 +1,12 @@
+{
+    "id": "f77acd9b-736c-4156-9f22-c5ae0642774c",
+    "queryName": "Raghu-owner-Test",
+    "severity": "HIGH",
+    "category": "Access control",
+    "descriptionText": "traces of roles/owner ",
+    "descriptionUrl": "https://registry.terraform.io/providers/hashicorp/google/latest/docs/resources/compute_disk",
+    "platform": "Terraform",
+    "descriptionID": "33fb7fa7",
+    "cloudProvider": "gcp",
+    "cwe": "311"
+  }
