@@ -21,7 +21,7 @@ permissions:
   statuses: write
 jobs:
   Scan:
-    uses: rahg0/tempus-child/.github/workflows/cloudsec-iac.yml@master
+    uses: rahg0/tempus-child/.github/workflows/cloudsec-iac.yml@main
     with:
       project_key: ccp
       path: "./"
