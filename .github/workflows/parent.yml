@@ -25,4 +25,4 @@ jobs:
     with:
       project_key: ccp
       path: "./"
-    secrets: inherit
+    secrets: inherit 
